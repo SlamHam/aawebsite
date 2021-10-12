@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB4c18aA99D8793E47cEB1ec7A9d001A3F591E7c3",
+  "SCAN_LINK": "https://polygonscan.com/token/0xb4c18aa99d8793e47ceb1ec7a9d001a3f591e7c3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Abstract Alliance",
+  "SYMBOL": "ABSTRACT",
+  "MAX_SUPPLY": 5858,
+  "WEI_COST": 25000000000000000000,
+  "DISPLAY_COST": 25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/abstractalliance",
+  "SHOW_BACKGROUND": true
+}
